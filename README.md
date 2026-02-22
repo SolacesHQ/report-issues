@@ -1,6 +1,6 @@
-# Report Issues for ai.solaces.tech
+# Report Issues for Solaces
 
-Welcome to the official issue reporting repository for [ai.solaces.tech](https://ai.solaces.tech)!
+Welcome to the official issue reporting repository for solaces.tech!
 
 This repository is dedicated to tracking bugs, feature requests, and any other issues related to the ai.solaces.tech platform. Please follow the guidelines below to ensure your issue is addressed efficiently.
 
@@ -74,7 +74,7 @@ We provide the following templates to streamline the process:
 ---
 
 ## Contact & Support
-- For urgent matters, please use the contact form on [ai.solaces.tech](https://ai.solaces.tech) or email the support team if available.
+- For urgent matters, please use the contact form on solaces.tech or email the support team if available.
 - For general questions, use the Issues tab.
 
 ---
